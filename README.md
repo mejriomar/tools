@@ -37,4 +37,8 @@ cd code
 mode packge with ]
 
 activate .
+add packge_name
+include("script.jl")
+
+
 
