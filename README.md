@@ -36,8 +36,13 @@ cd code
 
 mode packge with ]
 
+# activate the local env
 activate .
+
+# install a new packge
 add packge_name
+
+# start a script.jl
 include("script.jl")
 
 
