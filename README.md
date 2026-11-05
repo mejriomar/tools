@@ -45,5 +45,13 @@ add packge_name
 # start a script.jl
 include("script.jl")
 
+PS C:\Users\omarm> Test-NetConnection test.mosquitto.org -Port 8883
 
+
+ComputerName     : test.mosquitto.org
+RemoteAddress    : 54.36.178.49
+RemotePort       : 8883
+InterfaceAlias   : Wi-Fi
+SourceAddress    : 192.168.43.89
+TcpTestSucceeded : True
 
